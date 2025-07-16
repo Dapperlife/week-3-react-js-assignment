@@ -159,13 +159,9 @@ All components are modular and can be easily customized:
 
 ## 🚀 Deployment
 
-### Deploy to Lovable
-1. Click the "Publish" button in the Lovable editor
-2. Your app will be deployed automatically
-
-### Deploy to Other Platforms
 After building the project (`npm run build`), you can deploy the `dist` folder to:
-- Vercel
+- Vercel - https://dapperlife-tasks.vercel.app/
+- 
 - Netlify
 - GitHub Pages
 - Any static hosting service
