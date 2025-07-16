@@ -75,25 +75,7 @@ The built files will be in the `dist` directory, ready for deployment.
 
 ## 📱 Application Screenshots
 
-### Main Dashboard
-The main interface shows your task list with filtering options and progress tracking.
-
-*[Screenshot of the main dashboard would be displayed here]*
-
-### Task Creation
-Create new tasks with titles, descriptions, and priority levels.
-
-*[Screenshot of the task creation form would be displayed here]*
-
-### Task Management
-Edit existing tasks inline or mark them as completed with a single click.
-
-*[Screenshot of task editing interface would be displayed here]*
-
-### Filtering and Progress
-Filter tasks by status and track your progress with the visual progress bar.
-
-*[Screenshot of the filtering sidebar would be displayed here]*
+Please find the above folder with screenshots
 
 ## 🎯 Usage
 
@@ -196,4 +178,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ using React, Vite, and TypeScript.
+
